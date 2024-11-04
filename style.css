@@ -1,0 +1,150 @@
+*{
+ Background-color:black;
+ border-radius:8%;
+ border-width:2px;
+}
+
+h1{
+    color:burlywood;
+    
+}
+
+table{
+    border: hidden;
+    
+}
+
+.box1{
+    color: rgb(19, 153, 220);
+    border-color: rgb(19, 153, 220);
+}
+  
+
+.box2{
+    color:rgb(225, 36, 127);
+    border-color: rgb(225, 36, 127);
+    }
+
+.box3{
+    color:blueviolet;
+    border-color: blueviolet;
+    }
+
+.box4{
+    color:cyan;
+    border-color:cyan;
+   }
+
+.box5{
+    color:rgb(255, 119, 0);
+    border-color:rgb(255, 119, 0);
+  }
+
+.box6{
+    color:rgb(23, 180, 23);
+    border-color:rgb(23, 180, 23);
+   }
+
+.box7{
+    color:rgb(228, 228, 79);
+    border-color:rgb(220, 228, 79);
+   }
+
+.box8{
+    color:yellow;
+    border-color:yellow;
+   }
+
+.box9{
+    color:yellowgreen;
+    border-color:yellowgreen;
+   }
+
+.box10{
+    color:red;
+    border-color:red;
+    }
+.remove{
+    border:hidden
+}
+
+#tab1{
+    padding-left: 320px;
+}
+
+#tab2{
+    padding-left: 360px;
+}
+
+#group1{
+   background-color:rgb(225, 36, 127);
+   border-radius: 50%;
+   width:15px;
+   }
+
+#group2{
+  background-color:blueviolet;  
+  border-radius: 50%;
+  width:15px;
+  }
+
+  #group3{
+    background-color:cyan;  
+    border-radius: 50%;
+    width:15px;
+  }
+
+  #group4{
+    background-color:rgb(255, 119, 0);
+    border-radius: 50%;
+    width:15px;
+  }
+
+  #group5{
+    background-color:rgb(23, 180, 23);
+    border-radius: 50%;
+    width:15px;
+  } 
+
+  #group6{
+    background-color:rgb(19, 153, 220);
+    border-radius: 50%;
+    width:15px;
+  } 
+
+  #group7{
+    background-color:rgb(228, 228, 79);;
+    border-radius: 50%;
+    width:15px;
+  } 
+
+  #group8{
+    background-color:yellow;
+    border-radius: 50%;
+    width:15px;
+  } 
+
+  #group9{
+    background-color:yellowgreen;
+    border-radius: 50%;
+    width:15px;
+  } 
+
+  #group10{
+    background-color:red;
+    border-radius: 50%;
+    width:15px;
+  } 
+
+.names{
+    -webkit-text-fill-color: white;
+}
+
+td:hover{
+  transform: scale(2);
+  cursor: pointer;
+}
+
+td.remove{
+  transform: none;
+}
